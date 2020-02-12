@@ -32,6 +32,8 @@
 
 参考书籍:
 
-- Understanding bioinformatics, Marketa Zvelebil & Jeremy O. Baum.
+- Understanding bioinformatics, Marketa Zvelebil
 - PRESCOTT'S MICROBIOLOGY, NINTH EDITION, McGraw-Hill
 - Microbiology: an evolving science, Joan L. Slonczewski
+- Concepts in Bioinformatics and Genomics, Jamil Momand
+
